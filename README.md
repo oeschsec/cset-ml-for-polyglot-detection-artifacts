@@ -1,6 +1,7 @@
 # cset-ml-for-polyglot-detection-artifacts
 Artifacts for 2022 CSET Paper "Toward the Detection of Polyglot Files"
 CSET URL: https://cset22.isi.edu/
+Paper URL: https://dl.acm.org/doi/10.1145/3546096.3546106
 
 The csv files containing the byte occurence vectors are arranged as follows:
 
